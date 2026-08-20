@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Hüseyin Emre 👋
 
-<!--
-**hemreuysal/hemreuysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Student (Junior) @ DEU | Developer & Tech Writer**
 
-Here are some ideas to get you started:
+I am an engineering student driven by a passion for software development, algorithms, and community building. Alongside creating technology, I deeply enjoy exploring its sociological and artistic impacts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+* 🎓 Junior Computer Engineering Student at Dokuz Eylül University (DEU).
+* 🌟 Serving as the **Committee Chair** for **Huawei Student Developers**, focusing on community management and event organization.
+* 💻 Deeply interested in data structures, algorithms, computer architecture, and operating systems.
+* ✍️ Writing analytical articles on the intersection of technology, artificial intelligence, and art.
+* 🏗️ Developer of [msku.org](https://msku.org), an independent digital social platform for university students.
+
+## 🛠️ Skills & Technologies
+* **Languages:** Python, C++, Java, JavaScript, Assembly
+* **Tools:** Git, Linux
+
+## 📫 Connect with Me
+* **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/huseyinemreuysal)
+* **Medium:** [Medium Profile](https://medium.com/@hemreuysal)
