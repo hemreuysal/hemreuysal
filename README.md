@@ -1,6 +1,6 @@
 # Hi, I'm Hüseyin Emre 👋
 
-**Computer Engineering Student (Junior) @ DEU | Developer & Tech Writer**
+**Computer Engineering Student (Junior) @ İYTE | Developer & Tech Writer**
 
 I am an engineering student driven by a passion for software development, algorithms, and community building. Alongside creating technology, I deeply enjoy exploring its sociological and artistic impacts.
 
