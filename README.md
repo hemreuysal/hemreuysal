@@ -5,8 +5,8 @@
 I am an engineering student driven by a passion for software development, algorithms, and community building. Alongside creating technology, I deeply enjoy exploring its sociological and artistic impacts.
 
 
-* 🎓 Junior Computer Engineering Student at Dokuz Eylül University (DEU).
-* 🌟 Serving as the **Committee Chair** for **Huawei Student Developers**, focusing on community management and event organization.
+* 🎓 Junior Computer Engineering Student at İYTE
+* 🌟 Served as the **Committee Chair** for **Huawei Student Developers**, focusing on community management and event organization.
 * 💻 Deeply interested in data structures, algorithms, computer architecture, and operating systems.
 * ✍️ Writing analytical articles on the intersection of technology, artificial intelligence, and art.
 * 🏗️ Developer of [msku.org](https://msku.org), an independent digital social platform for university students.
