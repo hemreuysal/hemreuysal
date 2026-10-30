@@ -17,4 +17,4 @@ I am an engineering student driven by a passion for software development, algori
 
 ## 📫 Connect with Me
 * **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/huseyinemreuysal)
-* **Medium:** [Medium Profile](https://medium.com/@hemreuysal)
+* **Medium:** [Medium Profile](https://medium.com/@huseyinemreuysal)
